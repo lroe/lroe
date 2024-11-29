@@ -5,7 +5,7 @@
 
 - 🌱 I’m an LLM engineer
 - 👯 I’m looking to collaborate on interesting projects
-- 📫 How to reach me: [LinkedIn]([https://www.linkedin.com/in/kpsreenath/](https://www.linkedin.com/in/jeevan-kumar-0b951b252/))
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jeevan-kumar-0b951b252/)
 
 <!--
 **sreenath-kp/sreenath-kp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
