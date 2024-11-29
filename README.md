@@ -1,7 +1,14 @@
-## Hi there 👋
+<img src="https://i.pinimg.com/originals/4a/7c/82/4a7c82f1225811fee292489f489c3770.gif" width=168 height=225 align="right"></img>
+
+### Hi👋
+## I'm Jeevan
+
+- 🌱 I’m an LLM engineer
+- 👯 I’m looking to collaborate on interesting projects
+- 📫 How to reach me: [LinkedIn]([https://www.linkedin.com/in/kpsreenath/](https://www.linkedin.com/in/jeevan-kumar-0b951b252/))
 
 <!--
-**lroe/lroe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**sreenath-kp/sreenath-kp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
