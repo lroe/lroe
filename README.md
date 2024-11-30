@@ -3,7 +3,7 @@
 ### Hi👋
 ## I'm Jeevan
 
-- 🌱 I’m an Application Developer \ Machine Learning enthusiast.
+- 🌱 I’m a technologist.
 - 👯 I’m looking to collaborate on interesting projects
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jeevan-kumar-0b951b252/)
 
