@@ -2,13 +2,9 @@
 
 ### Hi👋
 ## I'm Jeevan
+Trying to make the world a better place.
 
-- 🌱 I’m a technologist.
-- 👯 I’m looking to collaborate on interesting projects
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jeevan-kumar-0b951b252/)
-- 💼 [Portfolio](https://lroe.github.io/Jeevan_kumar/t.html)
 
-My motto : Invent, Reinvent, Invent again.
 
 <!--
 **sreenath-kp/sreenath-kp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
